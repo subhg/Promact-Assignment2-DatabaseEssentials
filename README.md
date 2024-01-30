@@ -9,7 +9,7 @@
     - Obi-Wan's tweet: "The Force will be withyou.Always."
   -Comment
     -Leia comments on Obi-Wan’s tweet: “Help me, Obi-Wan Kenobi. You’re my only hope.”
-    -**In Tweet table comments are identified by OriginalTweetID.If it is NULL it means it is not comment but if OriginalTweetId is provided it means TextualContent is a comment.**
+    - **In Tweet table comments are identified by OriginalTweetID.If it is NULL it means it is not comment but if OriginalTweetId is provided it means TextualContent is a comment.**
       
 - Like Table:
   - Leia likes Vader's tweet.
