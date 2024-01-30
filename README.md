@@ -1,3 +1,6 @@
+
+![Assignment2Tables](https://github.com/subhg/Promact-Assignment2-DatabaseEssentials/assets/113555022/d6cf0bee-421a-42de-adee-53a30f3893d5)
+
 - User Table:
   - Vader
   - Leia 
