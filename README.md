@@ -7,7 +7,7 @@
   - Obi-Wan
     
 - Tweet Table:
-  -Two tweets are added:
+  - Two tweets are added:
     - Vader's tweet :" I find your lack of faith disturbing"
     - Obi-Wan's tweet: "The Force will be withyou.Always."
       
