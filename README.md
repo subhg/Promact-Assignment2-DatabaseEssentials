@@ -19,5 +19,5 @@
   -Obi-Wan retweets Vader's tweet.
   
 - Follow Table:
- - Leia follows Vader
- - Vader follows Obi-Wan.
+  - Leia follows Vader
+  - Vader follows Obi-Wan.
